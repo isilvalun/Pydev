@@ -1,3 +1,6 @@
 [submodule "plugins/org.python.pydev.core/typeshed"]
 	path = plugins/org.python.pydev.core/typeshed
 	url = https://github.com/python/typeshed.git
+[submodule "plugins/org.python.pydev.core/pysrc"]
+	path = plugins/org.python.pydev.core/pysrc
+	url = https://github.com/isilvalun/PyDev.Debugger.git
